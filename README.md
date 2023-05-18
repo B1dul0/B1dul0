@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B1dul0
 - 👀 I’m interested in video games, programmation and geopolitic
-- 🌱 I’m currently learning the rlbot librarie in Python
+- 🌱 I’m currently learning the rlbot library in Python
 - 💖 I am in love with my nation and homeland. Vive la France 🇫🇷 !
 
 <!---
